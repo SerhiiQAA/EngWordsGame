@@ -27,7 +27,7 @@ EngWordsGame is crafted with robust and modern Android development tools to ensu
 
 ---
 
-⚠️ **Important Note:**
+## ℹ️ **Important Note:**
 This repository serves as the official distribution channel for the compiled Android application (.apk) of EngWordsGame. Please be aware that the full source code and detailed development specifics for EngWordsGame are proprietary and are not publicly shared within this repository.
 
 ---
