@@ -14,12 +14,6 @@ Ready to start your adventure? Download the latest compiled Android application 
 * **Add a word file on any topic:**  listen and memorize the words pronunciation.
 * **Offline Access:** Learn and play anytime, anywhere, without the need for an internet connection.
 * **No intrusive advertising**
-
-Voice recording capability: Record your voice using the record button and listen to what you've got in game form
- Ability to add a file with words on any topic
- Clean and intuitive design: Enjoy a user-friendly interface that will help you focus on learning.
-    Offline access: Learn and play anywhere and anytime without an internet connection.
-    No intrusive advertising
   
 ---
 
