@@ -1,5 +1,5 @@
 # EngWordsGame: Your Journey to Mastering English Vocabulary
----
+
 Welcome to EngWordsGame, an engaging and intuitive Android game designed to make learning English vocabulary a captivating adventure! Expand your lexicon, challenge your memory, and solidify your understanding of English words through fun, interactive gameplay.
 
 ---
