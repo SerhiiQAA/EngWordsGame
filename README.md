@@ -10,6 +10,7 @@ Ready to start your adventure? Download the latest compiled Android application 
 ---
 
 ## ✨ **Features:**
+
 * **Interactive Word Challenges:** Dive into dynamic quizzes and exercises covering various vocabulary categories.
 * **Clean & Intuitive Design:** Enjoy a user-friendly interface that keeps your focus firmly on learning.
 * **Progress Tracking:** Monitor your scores and visually track your vocabulary growth over time.
@@ -19,6 +20,7 @@ Ready to start your adventure? Download the latest compiled Android application 
 ---
 
 🛠️ **Technologies Powering the Learning:**
+
 EngWordsGame is crafted with robust and modern Android development tools to ensure a high-quality experience:
 * **Kotlin:** A contemporary, concise, and safe programming language for efficient Android application development.
 * **Android Canvas API:** Utilized for rendering custom 2D graphics, providing a fluid and visually appealing user interface.
