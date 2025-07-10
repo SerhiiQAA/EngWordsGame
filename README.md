@@ -24,15 +24,13 @@ Ready to start your adventure? Download the latest compiled Android application 
 ⚠️ **Important Note:**
 This repository serves as the official distribution channel for the compiled Android application (.apk) of "English Explorer." Please be aware that the full source code and detailed development specifics for "English Explorer" are proprietary and are not publicly shared within this repository.
 
-## 💖 Support the Project
-
-If you enjoy my mobile projects like EngWordsGame — consider supporting their development 🙌
-
 👉 [Donate via Monobank](https://send.monobank.ua/jar/6mVCH3drmi)
+
 💬 You can leave a comment with the game you're supporting!
+
+## 📜 License
+
+"All rights reserved. For personal use only." or a link to your LICENSE file if you created one.
+
 ---
-
-📜 **License:**
-All rights reserved. For personal use only.
-
-Developed with passion by SerhiiQAA
+*Developed with passion by SerhiiQAA*
