@@ -16,7 +16,7 @@ Ready to start your adventure? Download the latest compiled Android application 
 * **Progress Tracking:** Monitor your scores and visually track your vocabulary growth over time.
 * **Offline Access:** Learn and play anytime, anywhere, without the need for an internet connection.
 * **Built for Performance:** Experience smooth and responsive gameplay thanks to modern development practices.
-* 
+  
 ---
 
 ## 🛠️ **Technologies Powering the Learning**
