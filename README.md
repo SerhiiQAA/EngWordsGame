@@ -1,5 +1,5 @@
 # EngWordsGame: Your Journey to Mastering English Vocabulary
-
+---
 Welcome to EngWordsGame, an engaging and intuitive Android game designed to make learning English vocabulary a captivating adventure! Expand your lexicon, challenge your memory, and solidify your understanding of English words through fun, interactive gameplay.
 
 ---
@@ -32,6 +32,7 @@ This repository serves as the official distribution channel for the compiled And
 
 ---
 
+## 💖 Support the Project
 👉 [Donate via Monobank](https://send.monobank.ua/jar/6mVCH3drmi)
 
 💬 You can leave a comment with the game you're supporting!
@@ -43,4 +44,5 @@ This repository serves as the official distribution channel for the compiled And
 "All rights reserved. For personal use only."
 
 ---
+
 *Developed with passion by SerhiiQAA*
