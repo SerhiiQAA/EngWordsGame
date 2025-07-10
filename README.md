@@ -4,12 +4,12 @@ Welcome to EngWordsGame, an engaging and intuitive Android game designed to make
 
 ---
 
-🚀 **Download the Game**
+## 🚀 **Download the Game**
 Ready to start your adventure? Download the latest compiled Android application (`.apk` file) directly from our [**GitHub Releases page**](https://github.com/SerhiiQAA/EngWordsGame/releases).
 
 ---
 
-✨ **Features:**
+## ✨ **Features:**
 * **Interactive Word Challenges:** Dive into dynamic quizzes and exercises covering various vocabulary categories.
 * **Clean & Intuitive Design:** Enjoy a user-friendly interface that keeps your focus firmly on learning.
 * **Progress Tracking:** Monitor your scores and visually track your vocabulary growth over time.
