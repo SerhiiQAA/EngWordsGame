@@ -15,11 +15,15 @@ Ready to start your adventure? Download the latest compiled Android application 
 * **Progress Tracking:** Monitor your scores and visually track your vocabulary growth over time.
 * **Offline Access:** Learn and play anytime, anywhere, without the need for an internet connection.
 * **Built for Performance:** Experience smooth and responsive gameplay thanks to modern development practices.
+* 
+---
 
 🛠️ **Technologies Powering the Learning:**
 EngWordsGame is crafted with robust and modern Android development tools to ensure a high-quality experience:
 * **Kotlin:** A contemporary, concise, and safe programming language for efficient Android application development.
 * **Android Canvas API:** Utilized for rendering custom 2D graphics, providing a fluid and visually appealing user interface.
+* 
+---
 
 ⚠️ **Important Note:**
 This repository serves as the official distribution channel for the compiled Android application (.apk) of EngWordsGame. Please be aware that the full source code and detailed development specifics for EngWordsGame are proprietary and are not publicly shared within this repository.
@@ -27,6 +31,8 @@ This repository serves as the official distribution channel for the compiled And
 👉 [Donate via Monobank](https://send.monobank.ua/jar/6mVCH3drmi)
 
 💬 You can leave a comment with the game you're supporting!
+
+---
 
 ## 📜 License
 
