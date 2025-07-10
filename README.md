@@ -1,5 +1,5 @@
-# 📱 EngWordsGame: Your Journey to Mastering English Vocabulary
-
+# 📱 EngWordsGame
+Your Journey to Mastering English Vocabulary
 Welcome to the official EngWordsGame release repository! Dive into this engaging Android game to make learning English vocabulary a captivating adventure.
 
 ---
