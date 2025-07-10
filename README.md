@@ -30,7 +30,7 @@ This repository serves as the official distribution channel for the compiled And
 
 ## 📜 License
 
-"All rights reserved. For personal use only." or a link to your LICENSE file if you created one.
+"All rights reserved. For personal use only."
 
 ---
 *Developed with passion by SerhiiQAA*
