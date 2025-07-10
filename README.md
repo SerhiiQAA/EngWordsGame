@@ -19,7 +19,7 @@ Ready to start your adventure? Download the latest compiled Android application 
 * 
 ---
 
-🛠️ **Technologies Powering the Learning:**
+## 🛠️ **Technologies Powering the Learning**
 
 EngWordsGame is crafted with robust and modern Android development tools to ensure a high-quality experience:
 * **Kotlin:** A contemporary, concise, and safe programming language for efficient Android application development.
