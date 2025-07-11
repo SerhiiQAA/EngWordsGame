@@ -39,8 +39,8 @@ This repository serves as the official distribution channel for the compiled And
 
 ## 📜 License
 
-"All rights reserved. For personal use only."
+All rights reserved. For personal use only.
 
 ---
 
-*Developed with passion by SerhiiQAA*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&width=435&lines=Developed+with+passion+by+SerhiiQAA)](https://git.io/typing-svg)
